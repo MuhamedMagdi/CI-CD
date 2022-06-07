@@ -2,6 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/MuhamedMagdi/CI-CD/tree/master.svg?style=svg&circle-token=35bf380bdaf8bd7dad163f70107716c69d75a69d)](https://circleci.com/gh/MuhamedMagdi/CI-CD/tree/master)
 
+Website: [Link](http://fwd-angular.s3-website-us-east-1.amazonaws.com/)
 ### Installation
 
 Provision the necessary AWS services needed for running the application:
