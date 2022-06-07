@@ -3,8 +3,8 @@
         "frontend:install": "cd udagram/udagram-frontend && npm i",
         "frontend:build": "cd udagram/udagram-frontend && npm run build",
         "frontend:deploy": "cd udagram/udagram-frontend && npm run deploy",
-        "api:install": "cd udagram/udagram-api && npm i",
-        "api:build": "cd udagram/udagram-api && npm run build",
-        "api:deploy": "cd udagram/udagram-api && npm run deploy"
+        "backend:install": "cd udagram/udagram-api && npm i",
+        "backend:build": "cd udagram/udagram-api && npm run build",
+        "backend:deploy": "cd udagram/udagram-api && npm run deploy"
     }
 }
