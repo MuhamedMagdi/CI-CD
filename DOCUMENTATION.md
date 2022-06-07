@@ -37,3 +37,4 @@
 - Upload the frontend static file into S3 bucket
 - Deploy the backend into elastic beanstalk
 ```
+![CircleCi](screenshots/CircleCiBuild.png)
