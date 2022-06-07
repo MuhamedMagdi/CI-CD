@@ -25,10 +25,6 @@ jobs:
             command: |
               npm run backend:install
       - run:
-            name: Front-End Test
-            command: |
-              npm run frontend:test
-      - run:
             name: Front-End Build
             command: |
               npm run frontend:build
